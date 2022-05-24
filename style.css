@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+   
+}
+.color {
+    border: 1px solid black;
+    display: inline-block;
+    height: 40px;
+    color: black;
+    width: 50px;
+    margin-right: 0;
+    margin-left: 5px;
+    padding: 5px 5px;
+}
+#coral {
+    background-color: coral;
+}
+#preto {
+    background-color: black;
+}
+#vermelho {
+    background-color: red;
+}
+#roxo {
+    background-color: slateblue;
+}
+#pixel-board {
+    display: inline-block;
+}
+.pixel {
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+    border: 1px solid black;
+    display: inline-block;
+    background-color: white;
+    padding: 0 px;
+}
+
+#center{
+    margin-top: 50px;
+    margin-left: 550px;
+    background-repeat: no-repeat;
+    background-image: url(https://s1.1zoom.me/b5050/987/Dogs_Pug_Puppy_Camera_438720_1366x768.jpg);
+}
