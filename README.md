@@ -1,6 +1,6 @@
 
 ## Projeto Arte com Pixels!
-
+Projeto desenvolvido no curso da Trybe no modulo de Fundamentos do Desenvolvimento Web
 
 ## Habilidades
 
